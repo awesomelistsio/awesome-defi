@@ -84,6 +84,7 @@
 
 ## Analytics and Data Tools
 
+- **[CTRL](https://ctrl.build/)** - Visual DeFi workflow automation on Base + Ethereum mainnet. Compose on-chain rules (cron, price triggers, balance thresholds, new-pool detection) on a canvas; an 8-wallet keeper executes from vault-direct V13 smart contracts. Ships with an MCP server and a Claude skill for agent-native usage.
 - **[DeFi Pulse](https://defipulse.com/)** - Tracks the total value locked (TVL) in DeFi protocols.
 - **[Zapper](https://zapper.fi/)** - A DeFi dashboard for tracking assets and yield farming positions.
 - **[Dune Analytics](https://dune.com/)** - A platform for querying and visualizing DeFi data.
