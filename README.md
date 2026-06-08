@@ -98,6 +98,7 @@
 - **[OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts/)** - A library of secure smart contracts used in DeFi.
 - **[Immunefi](https://immunefi.com/)** - A bug bounty platform for DeFi and crypto projects, incentivizing security researchers.
 - **[Quantstamp](https://quantstamp.com/)** - A smart contract auditing service for DeFi projects.
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - On-chain trust scoring for AI agent wallets on Solana. Verify agent wallet reputation before authorizing autonomous DeFi transactions or x402 payment flows.
 
 ## Educational Resources
 
