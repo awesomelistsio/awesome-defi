@@ -81,6 +81,7 @@
 - **[Argent Wallet](https://www.argent.xyz/)** - A mobile Ethereum wallet with integrated DeFi features.
 - **[Zerion](https://zerion.io/)** - A wallet and DeFi interface for managing assets across different protocols.
 - **[Gnosis Safe](https://gnosis-safe.io/)** - A multi-signature wallet designed for secure management of DeFi assets.
+- **[Dexly](https://dexly.trade/)** - Self-custodial mobile app for trading on Hyperliquid (perps, spot, tokenized stocks, prediction markets) with copy trading — you hold your own keys.
 
 ## Analytics and Data Tools
 
