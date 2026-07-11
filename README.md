@@ -60,6 +60,7 @@
 
 ## Yield Farming and Staking
 
+- **[DAY Protocol](https://dayprotocol.com)** - Agent-native non-custodial yield router (wallet-only identity; Sui/Solana/Base/Arbitrum; Auto Pay + x402). Not a share-token vault farm. [SDK](https://github.com/dayprotocol/sdk) · [Docs](https://docs.dayprotocol.com)
 - **[Yearn Finance](https://yearn.finance/)** - Aggregates yield farming opportunities and automates strategies for maximum returns.
 - **[Harvest Finance](https://harvest.finance/)** - A yield optimizer platform that automatically farms the highest yields.
 - **[Beefy Finance](https://beefy.finance/)** - A yield optimizer on Binance Smart Chain that compounds user earnings automatically.
