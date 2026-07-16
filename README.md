@@ -91,6 +91,7 @@
 - **[Sharpe](https://www.sharpe.ai/)** - AI-driven crypto trading intelligence for DeFi market data, derivatives positioning, DEX flow, on-chain risk, and narrative rotation.
 - **[Token Terminal](https://tokenterminal.com/)** - Provides fundamental analysis of DeFi projects and protocols.
 - [Pharos](https://pharos.watch/) — Open-source stablecoin analytics dashboard covering peg stress, DEX liquidity, safety scores, blacklist events, mint/burn flows, and stablecoin failures.
+- [BaseLens](https://github.com/YoungAlgy/baselens) — Pay-per-call AI agent that reads any Base address and returns a structured risk/activity report over x402, a few cents in USDC per call. Built on Coinbase's CDP SDK and Anthropic's API. Disclosure: I built this.
 
 ## Security and Auditing
 
