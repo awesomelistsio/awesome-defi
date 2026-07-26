@@ -91,6 +91,7 @@
 - **[Sharpe](https://www.sharpe.ai/)** - AI-driven crypto trading intelligence for DeFi market data, derivatives positioning, DEX flow, on-chain risk, and narrative rotation.
 - **[Token Terminal](https://tokenterminal.com/)** - Provides fundamental analysis of DeFi projects and protocols.
 - [Pharos](https://pharos.watch/) — Open-source stablecoin analytics dashboard covering peg stress, DEX liquidity, safety scores, blacklist events, mint/burn flows, and stablecoin failures.
+- **[Deep Blue Alpha](https://deepbluealpha.io/)** - Real-time Ethereum whale tracking platform monitoring 42,000+ whale wallets with live DEX trade feeds, buy/sell sentiment scoring, and a free public API. No signup required.
 - **[Deep Blue Alpha](https://deepbluealpha.io/)** - Real-time Ethereum whale wallet tracker — monitors 10,000+ wallets block-by-block, showing net buy/sell flow per token across 1H/24H/7D windows. Free, no signup.
 
 ## Security and Auditing
