@@ -91,6 +91,7 @@
 - **[Sharpe](https://www.sharpe.ai/)** - AI-driven crypto trading intelligence for DeFi market data, derivatives positioning, DEX flow, on-chain risk, and narrative rotation.
 - **[Token Terminal](https://tokenterminal.com/)** - Provides fundamental analysis of DeFi projects and protocols.
 - [Pharos](https://pharos.watch/) — Open-source stablecoin analytics dashboard covering peg stress, DEX liquidity, safety scores, blacklist events, mint/burn flows, and stablecoin failures.
+- **[Crypto Tx Classifier API](https://crypto-tx-classifier-api.onrender.com)** - Classifies raw on-chain DeFi transactions (Curve, Convex, Aerodrome, Across bridge) into labeled categories for tax/accounting import. Free tier, non-custodial on-chain payment, read-only.
 
 ## Security and Auditing
 
