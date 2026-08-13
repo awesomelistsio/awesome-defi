@@ -34,6 +34,7 @@
 - **[State of the Dapps](https://www.stateofthedapps.com/)** - A directory of decentralized applications, including DeFi projects.
 
 ## DeFi Protocols
+- [n8n-solana-mint-monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow that watches an SPL mint or program ID and alerts on Telegram on new transactions, no external database.
 
 - **[Uniswap](https://uniswap.org/)** - A decentralized exchange (DEX) for swapping ERC-20 tokens using an automated market maker (AMM) model.
 - **[Aave](https://aave.com/)** - A decentralized lending protocol allowing users to lend and borrow crypto assets.
