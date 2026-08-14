@@ -91,6 +91,7 @@
 - **[Sharpe](https://www.sharpe.ai/)** - AI-driven crypto trading intelligence for DeFi market data, derivatives positioning, DEX flow, on-chain risk, and narrative rotation.
 - **[Token Terminal](https://tokenterminal.com/)** - Provides fundamental analysis of DeFi projects and protocols.
 - [Pharos](https://pharos.watch/) — Open-source stablecoin analytics dashboard covering peg stress, DEX liquidity, safety scores, blacklist events, mint/burn flows, and stablecoin failures.
+- **[AtlasYield](https://atlasyield.club/)** - An independent rating and allocation layer for on-chain yield, scoring DeFi vaults 0-100 across 16 factors with a public read-only scores API.
 
 ## Security and Auditing
 
