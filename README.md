@@ -91,6 +91,7 @@
 - **[Sharpe](https://www.sharpe.ai/)** - AI-driven crypto trading intelligence for DeFi market data, derivatives positioning, DEX flow, on-chain risk, and narrative rotation.
 - **[Token Terminal](https://tokenterminal.com/)** - Provides fundamental analysis of DeFi projects and protocols.
 - [Pharos](https://pharos.watch/) — Open-source stablecoin analytics dashboard covering peg stress, DEX liquidity, safety scores, blacklist events, mint/burn flows, and stablecoin failures.
+- **[Formo Analytics](https://formo.so/)** - Product and on-chain analytics for DeFi teams, including wallet profiles, funnels, retention, revenue, and SQL.
 
 ## Security and Auditing
 
