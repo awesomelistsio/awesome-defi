@@ -98,6 +98,7 @@
 - **[OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts/)** - A library of secure smart contracts used in DeFi.
 - **[Immunefi](https://immunefi.com/)** - A bug bounty platform for DeFi and crypto projects, incentivizing security researchers.
 - **[Quantstamp](https://quantstamp.com/)** - A smart contract auditing service for DeFi projects.
+- **[Telem Incident Feed](https://telem.news/security/incidents)** - A running record of DeFi exploits, hacks and rug pulls, with an original attributed brief per incident. Free, no login.
 
 ## Educational Resources
 
