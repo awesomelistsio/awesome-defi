@@ -91,6 +91,7 @@
 - **[Sharpe](https://www.sharpe.ai/)** - AI-driven crypto trading intelligence for DeFi market data, derivatives positioning, DEX flow, on-chain risk, and narrative rotation.
 - **[Token Terminal](https://tokenterminal.com/)** - Provides fundamental analysis of DeFi projects and protocols.
 - [Pharos](https://pharos.watch/) — Open-source stablecoin analytics dashboard covering peg stress, DEX liquidity, safety scores, blacklist events, mint/burn flows, and stablecoin failures.
+- **[Debt Saver](https://debt-saver-public-test.pages.dev/)** - Read-only DeFi debt analysis tool that detects supported Morpho Blue borrow positions, compares live Aave V3 borrowing conditions, and estimates refinance savings after modeled migration costs.
 
 ## Security and Auditing
 
